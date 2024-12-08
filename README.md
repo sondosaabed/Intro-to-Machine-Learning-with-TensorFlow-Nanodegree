@@ -23,3 +23,6 @@ In this lesson, we'll get a lot of hands-on practice and learn how to use Tensor
 
 ### Course one project: Supervised Machine Learning
 https://github.com/sondosaabed/Finding-Charity-Donors 
+
+### Course two project: Introduction to neural networks with Tensorflow
+https://github.com/sondosaabed/Image-Classifier-with-Deep-Learning-TF
