@@ -1,0 +1,11 @@
+ways to optimize the training of our models. If you followed along with everything, you now know how to:
+- Separate data into testing and training sets in order to objectively test a model and ensure that it can generalize beyond the training data.
+- Distinguish between underfitting and overfitting, and identify the underlying causes of each.
+- Use early stopping to end the training process at a point that minimizes both testing error and training error.
+- Apply regularization to reduce overfitting.
+- Use dropout to randomly turn off portions of a network during training and ensure no single part of the network dominates the resulting model disproportionately.
+- Use random restart to avoid getting stuck in local minima.
+- Use the hyperbolic tangent function and ReLU to improve gradient descent.
+- Distinguish between batch gradient descent vs stochastic gradient descent.
+- Adjust the learning rate of the gradient descent algorithm in order to improve model optimization.
+- Use momentum to avoid getting stuck in local minima.
