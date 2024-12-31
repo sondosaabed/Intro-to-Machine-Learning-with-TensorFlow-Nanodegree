@@ -42,3 +42,6 @@ https://github.com/sondosaabed/Finding-Charity-Donors
 
 ### Course two project: Introduction to neural networks with Tensorflow
 https://github.com/sondosaabed/Image-Classifier-with-Deep-Learning-TF
+
+### Course three project: Unsupervised Learning
+https://github.com/sondosaabed/Identify-Customer-Segments
