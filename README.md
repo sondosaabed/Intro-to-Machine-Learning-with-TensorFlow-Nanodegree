@@ -4,7 +4,41 @@ Acquired a full scholarship from Google Palestine Launchpad. It is about the mas
 ## Courses
 
 ### 1. Supervised Machine Learning
+#### Lesson 1: Regression
+• Learn the difference between regression and classification.
+• Train a linear regression model to predict values.
+• Learn to predict states using logistic regression.
 
+#### Lesson 2: Perceptron Algorithms
+• Learn the definition of a perceptron as a building block for neural networks, and the perceptron algorithm for classification.
+
+#### Lesson 3: Decision Trees
+• Train decision trees to predict states.
+• Use Entropy to build decision trees recursively.
+
+#### Lesson 4: Naive Bayes
+• Learn Bayes’ rule and apply it to predict cases of spam messages using the
+
+#### Naive Bayes algorithm.
+• Train models using Bayesian learning.
+• Complete an exercise that uses Bayesian learning for natural language processing.
+
+#### Lesson 5: upport Vector Machines
+• Learn to train a support vector machine to separate data linearly.
+• Use Kernel Methods in order to train SVMs on data that is not linearly separable.
+
+#### Lesson 6: Ensemble of Learners
+• Enhance traditional algorithms via boosting.
+• Learn and apply Random Forest algorithms.
+• Use AdaBoost and evaluate the performance of boosted models.
+
+#### Lesson 7; Evaluation Metrics
+• Learn about different metrics to measure model success.
+• Calculate accuracy, precision, and recall to measure the performance of your models.
+
+#### Lesson 8 Training & Tuning Models
+• Train and test models with Scikit-learn.
+• Choose the best model using evaluation techniques like cross validation and grid search.
 
 ### 2. Introduction to neural networks
 #### Introduction to Neural Networks
