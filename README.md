@@ -1,6 +1,10 @@
 # Intro-to-Machine-Learning-with-TensorFlow-Nanodegree
 Acquired a full scholarship from Google Palestine Launchpad. It is about the mastery of machine learning techniques such as data transformation and algorithms that can find patterns in data and apply machine learning algorithms to tasks of their own design.
 
+## Verified Certificate Of Nanodegree Program Completion
+
+![image](https://github.com/user-attachments/assets/1907b1db-0c9a-4044-ab65-688b01034786)
+
 ## Courses
 
 ### 1. Supervised Machine Learning
